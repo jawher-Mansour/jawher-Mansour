@@ -6,7 +6,7 @@
 
 
 <h1 align="Center" id="macropower-title">:wave: Hey there! I'm Jawher MANSOUR</h1>
-<h3 align="left">I am a UAV pilot|PCB Designer|Maker|Electronic enthusiast who loves reverse Engineering things  ❤️  </h3>
+<h3 align="left">I am a UAV pilot | PCB Designer | Maker | Electronic enthusiast who loves reverse Engineering things  ❤️  </h3>
 <h5 align="Center">-Everything thing here is made with coffee and computers -  </h5>
 
 Hi, I'm [Jawher MANSOUR](https://jawher-mansour.github.io/), a Dynamic and sociable Young motivated PCB design and UAV pilot from Tunisia :tunisia: . who is passionate about technological innovations, especially IoT, robotics, embedded communication protocols (CAN, I2C, SPI, USART), and reverse engineering.
