@@ -7,7 +7,7 @@
 <h1 align="Center" id="macropower-title">:wave: Hey there! I'm Jawher MANSOUR</h1>
 <h3 align="Center"> UAV pilot | PCB Designer | Maker | Electronic enthusiast </h3>
 <h3 align="Center"> ❤️ who loves reverse Engineering things ❤️  </h3>
-<h5 align="Center">-Everything thing here is made with coffee and computers -  </h5>
+<h5 align="Center">-Everything here is made with coffee and computers -  </h5>
 
 <hr>
 
