@@ -9,6 +9,8 @@
 <h3 align="Center"> ❤️ who loves reverse Engineering things ❤️  </h3>
 <h5 align="Center">-Everything thing here is made with coffee and computers -  </h5>
 
+<hr>
+
 Hi, I'm [Jawher MANSOUR](https://jawher-mansour.github.io/), a Dynamic and sociable Young motivated PCB design and UAV pilot from Tunisia 🇹🇳 . who is passionate about technological innovations, especially IoT, robotics, embedded communication protocols (CAN, I2C, SPI, USART), and reverse engineering.
 My passion for PCB design lies in dreaming up ideas and making them come true with an elegant layout. I take great care in the experience, Schematic, and PCB quality of the things I build.
 
