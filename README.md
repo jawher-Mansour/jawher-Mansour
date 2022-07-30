@@ -21,15 +21,15 @@ Actually, I'm a teacher at the Military Academy of Tunisia :tunisia: , and also 
 I'm a professional trainer and mentor who is very familiar with the LoRa, Wi-Fi, and GPRS technology when it comes to IoT.
 I held a UAV pilot certificate from [Silla University](https://en.silla.ac.kr/en/) in South Korea :kr: .
 I've spent most of my time as a PCB designer and firmware working with the following tools/technologies:
--Altium Designer
--Ltspice
--Kicad EDA
--GitHub
--LoRa
--GPRS
--WiFi
--Drones
--MCUs(AVR,ARM,PIC)
+- Altium Designer
+- Ltspice
+- Kicad EDA
+- GitHub
+- LoRa
+- GPRS
+- WiFi
+- Drones (M600,M200,Mavic and custom built drones).
+- MCUs(AVR,ARM,PIC)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
