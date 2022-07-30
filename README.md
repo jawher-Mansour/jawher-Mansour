@@ -12,6 +12,7 @@
 <hr>
 
 Hi, I'm [Jawher MANSOUR](https://jawher-mansour.github.io/), a Dynamic and sociable Young motivated PCB design and UAV pilot from Tunisia 🇹🇳 . who is passionate about technological innovations, especially IoT, robotics, embedded communication protocols (CAN, I2C, SPI, USART), and reverse engineering.
+
 My passion for PCB design lies in dreaming up ideas and making them come true with an elegant layout. I take great care in the experience, Schematic, and PCB quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -20,6 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 Actually, I'm a teacher at the Military Academy of Tunisia :tunisia: , and also the co-founder and CEO of [LAB619 Engineering & Consulting Services](https://lab619.tn/).
 I'm a professional trainer and mentor who is very familiar with the LoRa, Wi-Fi, and GPRS technology when it comes to IoT.
 I held a UAV pilot certificate from [Silla University](https://en.silla.ac.kr/en/) in South Korea :kr: .
+
 I've spent most of my time as a PCB designer and firmware working with the following tools/technologies:
 - Altium Designer
 - Ltspice
