@@ -33,6 +33,19 @@ I've spent most of my time as a PCB designer and firmware working with the follo
 - Drones (M600,M200,Mavic and custom built drones).
 - MCUs(AVR,ARM,PIC)
 
+ ## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center ">
+<a href="https://github.com/jawher-Mansour">
+  
+  &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jawher-Mansourt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>    
+</a> 
+</p>
+
+  <br> 
+  
+  <hr>
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/JawherMansour" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
