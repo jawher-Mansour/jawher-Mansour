@@ -36,10 +36,12 @@ I've spent most of my time as a PCB designer and firmware working with the follo
  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center ">
+	
 <a href="https://github.com/jawher-Mansour">
   
   &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jawher-Mansour&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>    
 </a> 
+	
 </p>
   <br> 
   
