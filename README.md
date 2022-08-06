@@ -42,10 +42,11 @@ I've spent most of my time as a PCB designer and firmware working with the follo
 </a> 
 </p>
   <br> 
-  ##
-  ##if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
+  
+  ## if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p align="center">
 <a href="https://www.buymeacoffee.com/JawherMansour" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+	</p>
 
 ## Where to find me:
 Feel free to reach out, whether for a freelancing job or if you have any questions :
